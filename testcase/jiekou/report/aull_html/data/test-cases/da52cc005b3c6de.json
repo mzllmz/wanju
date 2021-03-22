@@ -1,0 +1,84 @@
+{
+  "uid" : "da52cc005b3c6de",
+  "name" : "test_01[zhongwen1]",
+  "fullName" : "test_z01#test_01",
+  "historyId" : "dd8d844ae3d2aa3fa61c5085007789fe",
+  "time" : {
+    "start" : 1616411685109,
+    "stop" : 1616411685109,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "zhongwen",
+    "time" : {
+      "start" : 1616411684980,
+      "stop" : 1616411685109,
+      "duration" : 129
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "abc095a557f1f32a",
+      "name" : "log",
+      "source" : "abc095a557f1f32a.txt",
+      "type" : "text/plain",
+      "size" : 165
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_z01"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-PBNBSJUP"
+  }, {
+    "name" : "thread",
+    "value" : "71948-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_z01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "zhongwen",
+    "value" : "('667c457d76ae91ffc067d39d95fc3658', '韩')"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da52cc005b3c6de.json",
+  "parameterValues" : [ "('667c457d76ae91ffc067d39d95fc3658', '韩')" ]
+}

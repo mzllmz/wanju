@@ -1,0 +1,2 @@
+INFO     common.log.logHandler:conftest.py:50 请求667c457d76ae91ffc067d39d95fc3658成功,得到韩成功
+INFO     common.log.logHandler:test_z01.py:26 接口名：
